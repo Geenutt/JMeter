@@ -58,7 +58,7 @@ Trang web https://www.geeksforgeeks.org/ có hiệu năng tốt. Số lượng y
   - Aggregate Report
 ### Kết quả kiểm tra:
 
-![z5481246042585_43e222f8b942e6019359dafff783dd84](https://github.com/Geenutt/JMeter/assets/96821358/d514a4b6-a640-40f3-bc34-8e8c55892e2f)
+![334016679-7ef95a94-377c-42ae-9f47-4b323fd73fd4](https://github.com/Geenutt/JMeter/assets/96821358/8d106380-fa3d-46dc-bb2a-d33324d271ff)
 
 
 ### Phân tích kết quả kiểm tra:
